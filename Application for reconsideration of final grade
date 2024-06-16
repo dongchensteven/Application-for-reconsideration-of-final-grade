@@ -34,7 +34,7 @@ That is nonsensical and false. My submitted coding works always align with the i
 
 Part A still:
 The marker's comment, 'The existing design lacks the CSV handling features for animal and customer classes,' is valid. However, it's worth noting that the industry,
-in line with the course's suggestion, advocates for data storage in a JSON file format due to its object-oriented nature and widespread professional use in coding.
+in line with the course's suggestion, advocates for data storage in a JSON format due to its object-oriented nature and widespread professional use in coding.
 As the industry rightly points out, using CSV is considered unprofessional and not recommended, and strictly using a CSV as the store method should have been mentioned in the marking schedule if that's the case.
 However, JSON is a better solution in the industry. Since Assessment 1, we have been told to save data as JSON; I wonder why it becomes a problem in Assessment 2.
 
