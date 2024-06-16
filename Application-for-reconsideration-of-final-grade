@@ -1,0 +1,111 @@
+
+BIT706
+Programming III
+Assessment 2
+
+I have encountered a matter of significant concern between Open Polytechnic and myself. I have been in the programming industry for more than ten years before I applied to study at Open Polytechnic, 
+so I have always been following the marking schedule, as you can see from my previous performance, I have always been committed to my coding courses and assessments,
+but this assessment marking result shocked me! Open Polytechnic should take the marking part very seriously to ensure the markers truly understand what they are doing,
+know the industry's best practices, and comply with the marking schedule. But, the problem is, can we stop markers from making falsified judgements and ratings?
+
+The Marker is presenting their own opinion and judgement during the marking process instead of following the assessment requirements and the marking schedule,
+which discourages me from believing that Open Polytechnic's marking system is stable.
+
+I would appreciate it if Open Polytechnic took this matter seriously and thoroughly investigated the marking process to ensure that all markers provide fair judgement and marks to hardworking individuals.
+
+I have always taken my assessments seriously. I will not carelessly submit an assessment lacking any critical elements required by the marking schedule.
+
+The marker's conduct has had a very negative impact on my work. Their failure to thoroughly review my entire project and their baseless claim that I omitted the Microchip class,
+which is completely unfounded, has significantly affected my academic progress.
+
+For Part A, Marker said the code doesn't contain a Microchip class, which is not true since every project I submitted contains one.
+For Commit 1:
+https://github.com/dongchensteven/706_AS2/tree/main/WeChipIt%20-%20Before%20IoC/WeChipIt/Data
+https://github.com/dongchensteven/706_AS2/tree/main/WeChipIt%20-%20After%20IoC/WeChipIt/DataLayer/Model
+For Commit 2: https://github.com/dongchensteven/706_AS2/tree/main/WeChipIt%20-%20After%20MVVM%20Without%20View/WeChipIt/DataLayer/Model
+For Commit 3: Screenshots only. Does not require a code submission.
+For Commit 4: https://github.com/dongchensteven/706_AS2/tree/main/WeChipIt%20-%20After%20MVVM%201%20Customer%20Only/WeChipIt/DataLayer/Model
+For Commit 5:
+https://github.com/dongchensteven/706_AS2/tree/main/WeChipIt%20-%20After%20MVVM%202%20Customer%20and%20Animal/WeChipIt/DataLayer/Model
+https://github.com/dongchensteven/706_AS2/tree/main/WeChipIt%20-%20After%20MVVM%203%20Customer%20and%20Animal%20and%20Microchip/WeChipIt/DataLayer/Model
+For Commit 6: Screenshots only. Does not require a code submission.
+
+As you can see from the codes I submitted above, the Microchip class marker mentioned exists in every project code I have submitted.
+The zip file I submitted to the course Assessment 2 page is also the same. So I don't know why the marker says, "The code provided does not contain a Microchip class"?
+That is nonsensical and false. My submitted coding works always align with the industrial-level standards due to my professionalism; they don't deserve such a low mark and falsified judgment.
+
+Part A still:
+The marker's comment, 'The existing design lacks the CSV handling features for animal and customer classes,' is valid. However, it's worth noting that the industry,
+in line with the course's suggestion, advocates for data storage in a JSON file format due to its object-oriented nature and widespread professional use in coding.
+As the industry rightly points out, using CSV is considered unprofessional and not recommended, and strictly using a CSV as the store method should have been mentioned in the marking schedule if that's the case.
+However, JSON is a better solution in the industry. Since Assessment 1, we have been told to save data as JSON; I wonder why it becomes a problem in Assessment 2.
+
+Part A still:
+"The data types, access methods, parameters and output for the attributes and methods are unclear." is nonreasonable.
+The marking schedule says, "Presents two clear and correct functional class diagrams of existing and new designs that show a comprehensive understanding of data concepts and refactoring requirements".
+The marking schedule asks to present existing and new designs of the data concepts and refactoring requirements;
+both of my existing design "WeChipItDataModels - Before IoC.png" and new design "WeChipItDataModels - After IoC.png" meet the marking schedule.
+The diagram is generated through Microsoft Visual Studio, the tool we were required to use to complete the projects.
+It shows the relationships between classes professionally and understandably, so I wonder why the marker suddenly presented their marking requirements,
+saying that I don't show data types, access methods, parameters or output attributes and methods, which is entirely baseless.
+How did I know you wanted those things to appear on the diagram since the marking schedule didn't ask us to do so?
+I did everything the marking schedule required and did show everything needed in the diagram. I deserve a better rating.
+
+Part A still:
+For "The logic behind updating the existing classes is correct. However,
+do note that the updated classes are also not in sync with the complete requirements of the task because the correct skeleton code was not used" is also not true.
+Although I wrote the code completely myself without the help of using the so-called structured "skeleton code",  as I said,
+my codes have always complied with the marking schedule as well as the industry's best practices due to my professionalism.
+They have met all the assessment's marking schedules. I wonder why the marker kept saying the skeleton code since the marking schedule didn't tell you you can't write your own.
+Or does it mean the marker only knows how to read the pre-written skeleton code? Aren't using skeleton codes easily being identified as plagiarism if everyone does so?
+Or does Open Polytechnic encourage people to plagiarise? Open Polytechnic is hiring incompetent people doing professional jobs,
+which I hope is not your original intention of running an OPEN polytechnic. OPEN means being open to the world, think out-of-the-box, and producing uniqueness. Or did I misunderstood the meaning of the OPEN?
+Preventing markers from playing autocratic politics on the students and marking based on their moods instead of based on the marking schedule and industry standards complaints is really
+what OPEN POLYTECHNIC should take control seriously at this stage.
+
+For Part B, the marker says, "The rationale provides a broad justification. However, detailed justification is lacking" The marking schedule said,
+"provides a comprehensive and consistent justification for changes made to implementing application-level design patterns,
+addressing all task questions with a high degree of accuracy" I did follow the marking schedule and provided everything it requires. There is a word limit of 300 words.
+The marker failed in Part A, which they didn't even see, and there was a microchip everywhere;
+I doubt that they have looked through what I have justified for my work so far. Until this stage, I believed the marker was marking based on mood.
+The mentioning of the skeleton code is also not true in this part; everything is there, everything is noticed, and everything works as expected and aligned to the marking schedule and complied with industry standard.
+
+Part B still:
+The talk about "Since the whole assessment was completed based on a wrong skeleton code, several functionalities are missing throughout all the tasks" is false.
+My self-written codes are fully compliant with the marking schedule as well as the industrial coding standard,
+and the codes comply with the assessment requirements (CRUD of Customers, Animals and Microchips) as well as comply with the industry's best practices as I
+have always been doing throughout my journey while studying at Open Polytechnic,  what else functionalities was the marker seeking for?
+Does the marker encourage people to be copycats since he/she kept saying to use the skeleton code that can easily be identified as plagiarism?
+Only if Open Polytechnic assigns an actual programmer who has true industrial experience and knows things will be competent to mark my assessments.
+
+Regarding Part C, the marker's comment that 'it is incomplete and does not contain tests regarding the datastore class' is nonsensical.
+The assessment task specifically required testing of the Business Layer, which is what I focused on in my submitted codes.
+The marking schedule also does not mention a test of the datastore layer, and I have double-checked the requirements and the marking schedule;
+if the requirement or the marking schedule asked, I would have done that. I wonder if the marker used a different marking schedule or misunderstood the requirements.
+If the marker wasn't using a marking schedule different from the students', that is the problem of the person providing the assessment requirements.
+
+For Part C, Part D and Part E, the marker's repeated comment, 'The code provided does not contain a microchip class,' has left me perplexed.
+I'm certain the Microchip class is present in the code. I'm at a loss to understand the discrepancy.
+The assessment requirement was clear from the beginning: We were to include references to Customer Animal and Microchip.
+I diligently included these elements right from the start. So, why is the marker suggesting otherwise?
+I don't know why the marker kept saying that I didn't have it there. Or did he/she mean I shouldn't have put it there?
+But if I didn't put it there, I would have lost marks since, from the beginning, the Microchip is already asked to be mentioned, and it's also the same as in assessment 1.
+The marker truly messed up my brain. Open Polytechnic should take control of the marking process and only let those who is honest and genuinely know programming mark IT students' works.
+I initially thought that Open Polytechnic was hiring professionals to teach and mark our assessments; that's why I stuck with Open Polytechnic,
+but now, this marker makes me believe that reality is not what I think. Open Polytechnic must treat this matter very seriously to retain its reputation in this field.
+
+I'm perplexed about how Parts F, G, and H received full marks, especially considering that all my previous codes were incorrect.
+Did that mean the marker first thought I was wrong, then finally realised alll I have done so far was actually correct? Then why he/she still treat my A,B,C,D,E like that?
+The skeleton code I used was from my first assessment. If this is not allowed, the marker should have marked me as failed in my first assessment and the marker should have also mentioned,
+"You aren't allowed to use your assessment 1's work as your code skeleton in this the second assessment. Otherwise, you will lose significant marks" in the marking schedule.
+Could you ask the marker to explain how he/she evaluated my Parts A, B, C, D, and E? I'm curious why the marker treated me this way.
+Did he/she mark those parts based on a different marking schedule? Did he/she unintentionally give the wrong marks to the wrong student? Or did he/she just mark based on the mood?
+Parts F, G, and H results are my usual performance in programming assessments; I have always met the requirements for evaluating all my programming-related courses.
+The marker's grading has had a significant impact on my physical and mental well-being. If this continues, I may consider taking further action to protect my essential rights.
+
+The code repository is a private repository. As requested by the assessment requirement, it has invited a collaborator email:Bit706@openpolytechnic.ac.nz.
+If the newly assigned marker must be added as a collaborator on GitHub, please provide me with the marker's GitHub account.
+Or if the marker can just mark simply based on the zip file I submitted on the course assessment's page, which is identical. Either way works for me.
+
+Regards,
+Dong Chen
