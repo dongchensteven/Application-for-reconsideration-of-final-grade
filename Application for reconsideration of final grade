@@ -116,14 +116,6 @@ Parts F, G, and H results are my usual performance in programming assessments; I
 Besides my above discoveries, here is something I recalled from the course forum that proves that not all the course materials were provided in time for students to start their work:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/Screenshot%202024-06-16%20210015.png
 As seasoned professionals, we often get used to any situation, such as adopting assessment 1 to assessment 2, which, when implemented, perfectly aligns with all CRUD requirements.
-Instead of opting for the traditional CSV, I chose a more modern, object-oriented approach with JSON. This is an industry-recommended method for contemporary data communication and is more elegant.
-We can't tell if a line of data is related to something else by looking at a line of CSV data, but you can easily spot relations in JSON-format data. So, we should use JSON instead of CSV.
-The assessment requires us to show the relationship between objects in the UML or class.
-Saving and retrieving data using JSON is more challenging than using CSV, and only after you have saved and retrieved data with JSON do you truly understand how the relationships between objects work.
-You will encounter a dead loop if you simply relate the Customer to the Animal or the Animal to the Microchip.
-Storing into a plain line-by-line CSV file won't teach us how the relationship between objects works.
-That is why, during the annual survey, other students and I believe that this course, BIT706 Programming III, is outdated,
-not only in the technology used but also in the ways of using the technology is obsolete as well.
 
 I also recalled that I had also posted an issue; the reason was for problems I encountered while importing the starter code provided by the course:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/olmUTQq9RxQzHlb03Q49_2024_05_21_115733.png
@@ -135,6 +127,16 @@ signifies that people can start Assessment 2 based on their Assessment 1's final
 This led me to continue with my own written codes, which earned me full marks in the last three parts of Assessment 2.
 She shouldn't only say the code is for those who didn't do well in Assessment 1; she should strengthen the idea that we all must start the project based on the code she provides,
 no matter how well we did in Assessment 1. Then, we will try to abandon our previously crafted code, even if it was a masterpiece.
+
+WITHOUT a prior warning from the tutor or the marking schedule:
+Instead of opting for the traditional CSV, I chose a more modern, object-oriented approach with JSON. This is an industry-recommended method for contemporary data communication and is more elegant.
+We can't tell if a line of data is related to something else by looking at a line of CSV data, but you can easily spot relations in JSON-format data. So, we should use JSON instead of CSV.
+The assessment requires us to show the relationship between objects in the UML or class.
+Saving and retrieving data using JSON is more challenging than using CSV, and only after you have saved and retrieved data with JSON do you truly understand how the relationships between objects work.
+You will encounter a dead loop if you simply relate the Customer to the Animal or the Animal to the Microchip.
+Storing into a plain line-by-line CSV file won't teach us how the relationship between objects works.
+That is why, during the annual survey, other students and I believe that this course, BIT706 Programming III, is outdated,
+not only in the technology used but also in the ways of using the technology is obsolete as well.
 
 So who can tell me why the marker thinks the codes that got full marks in the last three parts (F, G, H) deserved low marks and unfair judgements in the first five parts (A, B, C, D, and E)?
 Does anyone think this is logical? No, you would probably answer no. Due to all these ambiguity issues, I decided to submit a re-mark consideration.
