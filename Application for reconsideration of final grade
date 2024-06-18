@@ -133,7 +133,7 @@ Instead of opting for the traditional CSV, I chose a more modern, object-oriente
 We can't tell if a line of data is related to something else by looking at a line of CSV data, but you can easily spot relations in JSON-format data. So, we should use JSON instead of CSV.
 The assessment requires us to show the relationship between objects in the UML or class.
 Saving and retrieving data using JSON is more challenging and suitable than using CSV, and only after you have communicated data with JSON do you truly understand how the relationships between objects work.
-You will encounter a dead loop if you simply relate the Customer to the Animal or the Animal to the Microchip.
+You will encounter a dead loop if you relate the Customer to the Animal or the Animal to the Microchip; the same concept applies when you communicate with the DB; you can't just simply rub them together like dough.
 Storing into a plain line-by-line CSV file won't teach us how the relationship between objects works.
 That is why, during the annual survey, other students and I believe that this course, BIT706 Programming III, is outdated,
 not only in the technology used but also in the ways of using the technology is obsolete as well.
