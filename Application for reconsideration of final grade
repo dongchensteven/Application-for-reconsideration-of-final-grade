@@ -118,7 +118,7 @@ https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade
 This leads to veterans like me starting the work based on their first assessment at the beginning of assessment 2, which works perfectly and meets all CRUD requirements.
 Instead of communicating to a plain CSV, I conducted a more object-oriented way to use JSON cause it's more of an industry-recommended way for modern data communication when not using DB.
 
-Secondly, I had also posted an issue, the reason was for problems I encountered while importing the starter code provided by the course:
+I also recalled that I had also posted an issue; the reason was for problems I encountered while importing the starter code provided by the course:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/olmUTQq9RxQzHlb03Q49_2024_05_21_115733.png
 (I thought those code issues were solved by creating a new project for it, but it wasn't really solved eventually)
 
