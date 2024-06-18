@@ -115,8 +115,13 @@ Parts F, G, and H results are my usual performance in programming assessments; I
 
 Besides my above discoveries, here is something I recalled from the course forum that proves that not all the course materials were provided in time for students to start their work:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/Screenshot%202024-06-16%20210015.png
-This leads to veterans like me starting the work based on their first assessment at the beginning of assessment 2, which works perfectly and meets all CRUD requirements.
-Instead of communicating to a plain CSV, I conducted a more object-oriented way to use JSON cause it's more of an industry-recommended way for modern data communication when not using DB.
+As seasoned professionals, we often get used to any situation, such as adopting assessment 1 to assessment 2, which, when implemented, perfectly aligns with all CRUD requirements.
+Instead of opting for the traditional CSV, I chose a more modern, object-oriented approach with JSON. This is an industry-recommended method for contemporary data communication and is more elegant.
+We can't tell if a line of data is related to something else by looking at a line of CSV data, but you can easily spot relations in JSON-format data. So, we should use JSON instead of CSV.
+The assessment requires us to show the relationship between objects in the UML or class.
+Saving and retrieving data using JSON is more challenging than using CSV, and only after you have saved and retrieved data with JSON do you truly understand how the relationships between objects work.
+You will encounter a dead loop if you simply relate the Customer to the Animal or the Animal to the Microchip.
+Storing into a plain line-by-line CSV file won't teach us how the relationship between objects works.
 
 I also recalled that I had also posted an issue; the reason was for problems I encountered while importing the starter code provided by the course:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/olmUTQq9RxQzHlb03Q49_2024_05_21_115733.png
