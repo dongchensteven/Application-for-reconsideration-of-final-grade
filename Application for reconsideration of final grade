@@ -113,9 +113,10 @@ Could you ask the marker to explain how he/she evaluated my Parts A, B, C, D, an
 Did he/she mark those parts based on a different marking schedule? Did he/she unintentionally give the wrong marks to the wrong student? Or did he/she just mark based on the mood?
 Parts F, G, and H results are my usual performance in programming assessments; I have always met the requirements for evaluating all my programming-related courses.
 
-First, here is something I recalled from the course forum that proves that not all the course materials were provided in time for student to start their work:
+Besides my above discoveries, here is something I recalled from the course forum that proves that not all the course materials were provided in time for students to start their work:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/Screenshot%202024-06-16%20210015.png
-This leads to someone like me starting the work based on their first assessment.
+This leads to veterans like me starting the work based on their first assessment at the beginning of assessment 2, which works perfectly and meets all CRUD requirements.
+Instead of communicating to a plain CSV, I conducted a more object-oriented way to use JSON cause it's more of an industry-recommended way for modern data communication when not using DB.
 
 Secondly, I had also posted an issue, the reason was for problems I encountered while importing the starter code provided by the course:
 https://github.com/dongchensteven/Application-for-reconsideration-of-final-grade/blob/main/olmUTQq9RxQzHlb03Q49_2024_05_21_115733.png
